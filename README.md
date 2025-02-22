@@ -4,11 +4,11 @@ This repository contains various materials related to my manual software testing
 
 ## Contents:
 
-1. **[Test Cases]([Test-Cases](https://github.com/kamknap/Manual-Testing/tree/main/Test-Cases))**
+1. **[Test Cases](https://github.com/kamknap/Manual-Testing/tree/main/Test-Cases)**
    - This folder contains test cases I have created and worked on, including detailed steps, data inputs, and expected results for each case.
    - The test cases are organized into different categories such as "Search Bar" and "Cart."
 
-2. **[Bug Reports]([Bug-Reports](https://github.com/kamknap/Manual-Testing/tree/main/Bug-Reports))**
+2. **[Bug Reports](https://github.com/kamknap/Manual-Testing/tree/main/Bug-Reports)**
    - This folder contains reports on bugs identified during manual testing. It includes detailed descriptions of issues, steps to reproduce, expected vs. actual results, and severity levels.
 
 ## Purpose:
