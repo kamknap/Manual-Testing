@@ -4,11 +4,12 @@
 ### 1. [Test Cases (Excel file)](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/TestCasesWebsite.xlsx)
 - This file contains a list of my manual test cases, including detailed steps, data inputs, and expected results for each case.
 ### 2. [Screenshots (Folder)](https://github.com/kamknap/Manual-Testing/tree/main/Test-Cases/Jira-ScreenShots) (screens also below)
-- This folder contains 6 screenshots illustrating different stages of my testing process. These images include:
+- This folder contains 6 screenshots illustrating various stages of test case creation. These images include:
   - Two screenshots from the "Search Bar" and "Cart" folders, showcasing the organization of test cases for these features.
   - Two screenshots for each category, providing detailed steps and descriptions for testing.
   - A screenshot of the current sprint board, displaying the test plan in progress.
   - A screenshot showing the "To Do" test cases in the sprint, with 16 test cases listed.
+    
 - ![screen1](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-search.jpg)
 - ![screen2](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-search-inside.jpg)
 - ![screen3](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-cart.jpg)
