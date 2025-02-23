@@ -6,6 +6,15 @@
 ### 1. [Bug Reports (Word file)](https://github.com/kamknap/Manual-Testing/blob/main/Bug-Reports/Defect%20Report.docx) | [Online version](https://docs.google.com/document/d/1AthJU5UQ3dQiuUNsI2M8pgD61GLUg22zt8jjDEilv2A/edit?usp=sharing)
 - This file contains a list of defect reports, including detailed descriptions of the issues, steps to reproduce, expected and actual results, and the environment in which the issues were found.
 
+### 2. [JIRA Bug Reports Screenshots (Folder)](https://github.com/kamknap/Manual-Testing/tree/main/Test-Cases/Jira-ScreenShots) (screens also below)
+    
+- ![screen1](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-search.jpg)
+- ![screen2](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-search-inside.jpg)
+- ![screen3](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-cart.jpg)
+- ![screen4](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-cart-inside.jpg)
+- ![screen5](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/sprint.jpg)
+- ![screen6](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/sprint-todo.jpg)
+
 ### Testing Phases:
 1. **Exploratory Testing:** Defects found through unscripted exploration of the application.
 2. **Specification-Based Testing:** Issues identified based on the system's specifications.
