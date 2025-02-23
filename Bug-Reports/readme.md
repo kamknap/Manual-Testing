@@ -8,12 +8,11 @@
 
 ### 2. [JIRA Bug Reports Screenshots (Folder)](https://github.com/kamknap/Manual-Testing/tree/main/Test-Cases/Jira-ScreenShots) (screens also below)
     
-- ![screen1](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-search.jpg)
-- ![screen2](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-search-inside.jpg)
-- ![screen3](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-cart.jpg)
-- ![screen4](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/testing-board-cart-inside.jpg)
-- ![screen5](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/sprint.jpg)
-- ![screen6](https://github.com/kamknap/Manual-Testing/blob/main/Test-Cases/Jira-ScreenShots/sprint-todo.jpg)
+- ![screen1](https://github.com/kamknap/Manual-Testing/blob/main/Bug-Reports/Jira-ScreenShots/table%20bug%20report.jpg)
+- ![screen2](https://github.com/kamknap/Manual-Testing/blob/main/Bug-Reports/Jira-ScreenShots/failed.jpg)
+- ![screen3](https://github.com/kamknap/Manual-Testing/blob/main/Bug-Reports/Jira-ScreenShots/passed.jpg)
+- ![screen4](https://github.com/kamknap/Manual-Testing/blob/main/Bug-Reports/Jira-ScreenShots/bug%20report%20details.jpg)
+- ![screen5](https://github.com/kamknap/Manual-Testing/blob/main/Bug-Reports/Jira-ScreenShots/bug%20report%20details%202.jpg)
 
 ### Testing Phases:
 1. **Exploratory Testing:** Defects found through unscripted exploration of the application.
