@@ -3,7 +3,7 @@
 ### This folder contains defect reports collected from various testing phases of the application. The reports cover issues discovered during exploratory testing, specification-based testing, and UI/UX testing. Each report includes detailed descriptions of the defects, steps to reproduce, expected and actual results, and the environment in which the issues were found.
 
 ## Contents:
-### 1. [Bug Reports (Word file)]() | [Online version](https://docs.google.com/document/d/1AthJU5UQ3dQiuUNsI2M8pgD61GLUg22zt8jjDEilv2A/edit?usp=sharing)
+### 1. [Bug Reports (Word file)](https://github.com/kamknap/Manual-Testing/blob/main/Bug-Reports/Defect%20Report.docx) | [Online version](https://docs.google.com/document/d/1AthJU5UQ3dQiuUNsI2M8pgD61GLUg22zt8jjDEilv2A/edit?usp=sharing)
 - This file contains a list of defect reports, including detailed descriptions of the issues, steps to reproduce, expected and actual results, and the environment in which the issues were found.
 
 ### Testing Phases:
